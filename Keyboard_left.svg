@@ -25,15 +25,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="297.96753"
-     inkscape:cy="241.19935"
+     inkscape:cx="162.28584"
+     inkscape:cy="191.81765"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="mm"
      inkscape:window-width="1918"
      inkscape:window-height="1054"
-     inkscape:window-x="0"
+     inkscape:window-x="1920"
      inkscape:window-y="24"
      inkscape:window-maximized="0"
      inkscape:snap-midpoints="true" />
@@ -279,12 +279,12 @@
        id="use3977"
        style="fill:none;stroke:#000000;stroke-width:3.54330709;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:0.43921568999999999" />
     <rect
-       style="fill:none;stroke:#000000;stroke-width:3.54330709;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:0.43921568999999999"
+       style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="use3979"
        width="63.779526"
        height="63.779526"
        x="393.3071"
-       y="751.18115"
+       y="758.26776"
        ry="7.0866141"
        rx="7.0866141" />
     <rect
@@ -340,14 +340,14 @@
        transform="translate(0,485.43309)"
        sodipodi:nodetypes="ccc" />
     <rect
-       rx="7.0866141"
-       ry="7.0866141"
-       y="698.03149"
-       x="393.3071"
-       height="46.062992"
-       width="63.779526"
+       rx="7.0592113"
+       ry="8.1389198"
+       y="698.15485"
+       x="393.43042"
+       height="52.902981"
+       width="63.532902"
        id="rect3981"
-       style="fill:none;fill-opacity:0.43921568999999999;stroke:#000000;stroke-opacity:1;stroke-width:3.54330709;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="fill:none;stroke:#000000;stroke-width:3.78993249;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <rect
        rx="7.0866141"
        ry="7.0866141"
